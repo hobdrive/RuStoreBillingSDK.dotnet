@@ -7,6 +7,8 @@ Inside of AndroidDependencies run:
     `gradle app:copy_deps`
 to resolve and download all the required binaries jars and aars.
 
+
+
 Please notice that if your project uses some of the JARs from dependencies - you'll probably
 get "Class defined in two places" error during final build.
 
