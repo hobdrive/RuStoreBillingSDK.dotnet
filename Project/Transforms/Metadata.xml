@@ -9,4 +9,6 @@
   
   <remove-node path="/api/package[contains(@name, 'com.sdkit.paylib')]" />
 
+  <remove-node path="/api/package[contains(@name, 'kotlinx')]" />
+
 </metadata>

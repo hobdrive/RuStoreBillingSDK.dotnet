@@ -1,0 +1,13 @@
+total 9984
+drwxr-xr-x@ 12 igor  staff      384 Dec 30 22:32 .
+drwxr-xr-x@  9 igor  staff      288 Dec 30 22:33 ..
+-rw-r--r--@  1 igor  staff    17856 Oct  5 01:32 analytics-0.1.5.aar
+-rw-r--r--@  1 igor  staff  3538698 Oct  5 01:32 billingclient-2.1.0.aar
+-rw-r--r--@  1 igor  staff   137255 Oct  5 01:32 core-0.1.8.aar
+-rw-r--r--@  1 igor  staff    36049 Oct  5 01:32 dagger-2.40.5.jar
+-rw-r--r--@  1 igor  staff   283367 Oct  5 01:32 gson-2.10.1.jar
+-rw-r--r--@  1 igor  staff   792081 Oct  5 01:32 okhttp-4.9.3.jar
+-rw-r--r--@  1 igor  staff   243179 Oct  5 01:32 okio-jvm-2.8.0.jar
+-rw-r--r--@  1 igor  staff    24749 Oct  5 01:32 room-common-2.4.1.jar
+-rw-r--r--@  1 igor  staff    15777 Oct  5 01:32 shimmer-0.5.0.jar
+-rw-r--r--@  1 igor  staff     1821 Oct  5 01:32 viewbinding-7.1.1.jar
