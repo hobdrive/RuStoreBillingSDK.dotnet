@@ -11,3 +11,5 @@ drwxr-xr-x@  9 igor  staff      288 Dec 30 22:33 ..
 -rw-r--r--@  1 igor  staff    24749 Oct  5 01:32 room-common-2.4.1.jar
 -rw-r--r--@  1 igor  staff    15777 Oct  5 01:32 shimmer-0.5.0.jar
 -rw-r--r--@  1 igor  staff     1821 Oct  5 01:32 viewbinding-7.1.1.jar
+
+cp analytics-0.1.5.aar billingclient-2.1.0.aar core-0.1.8.aar dagger-2.40.5.jar gson-2.10.1.jar okhttp-4.9.3.jar okio-jvm-2.8.0.jar room-common-2.4.1.jar shimmer-0.5.0.jar viewbinding-7.1.1.jar ../../Project/Jars/
